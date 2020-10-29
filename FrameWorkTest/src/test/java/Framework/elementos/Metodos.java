@@ -5,14 +5,8 @@ public class Metodos<WebDriver> {
 	WebDriver driver;
 
 	public void navegador(String url, String navegador) {
-		
-		
-		System.setProperty(navegador, navegador);
-		
-		
-		
-		
-		
+
+		System.setProperty("webdriver.chrome.driver", " " );
 		
 		
 		
