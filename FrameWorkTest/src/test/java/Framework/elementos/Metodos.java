@@ -7,6 +7,12 @@ public class Metodos<WebDriver> {
 	public void navegador(String url, String navegador) {
 		
 		
+		System.setProperty(navegador, navegador);
+		
+		
+		
+		
+		
 		
 		
 		
